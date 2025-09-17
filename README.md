@@ -1,2 +1,2 @@
 # Data-Analysis-Progress
-Learning Data Analysis and Visualization one step at a time.
+Welcome to my learning journey through the Data Analysis and Visualization course.
