@@ -134,9 +134,9 @@ This course enhanced my ability to:
 ## 🖼 Visual Snapshots  
 -<img width="1912" height="1079" alt="Screenshot 2025-10-07 115726" src="https://github.com/user-attachments/assets/2071ce98-5315-4203-9d2d-f7a41ea894c8" />
 
--[Decomposition Tree](<img width="1909" height="1070" alt="Screenshot 2025-10-21 122732" src="https://github.com/user-attachments/assets/138d3da0-b104-4526-99fb-2f9efca99cbb" />)
+-<img width="1909" height="1070" alt="Screenshot 2025-10-21 122732" src="https://github.com/user-attachments/assets/138d3da0-b104-4526-99fb-2f9efca99cbb" />
 
--[AI-assisted insight exploration](<img width="1906" height="1078" alt="Screenshot 2025-10-21 122911" src="https://github.com/user-attachments/assets/7ee9f02f-99d4-4a24-a41c-64f611917d41" />)
+-<img width="1906" height="1078" alt="Screenshot 2025-10-21 122911" src="https://github.com/user-attachments/assets/7ee9f02f-99d4-4a24-a41c-64f611917d41" />
 
 
 ## 📝 Medium Article
