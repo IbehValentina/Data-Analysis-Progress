@@ -23,7 +23,7 @@ Feel free to explore the scripts, visuals, and practice files in this repo!
 
 
 
-# . Data Analysis & Visualization Progress Review
+# . Data Analysis & Visualization Progress Review (50%)
 
 I’m currently at 50% completion and focusing on *Creating and Configuring Visuals in Power BI*.
 
@@ -46,7 +46,7 @@ Read my full reflection here: [https://medium.com/@Luchie.x/halfway-through-my-j
 
 
 
-# Data Analysis Progress – Power BI Journey (75%)
+# . Data Analysis Progress – Power BI Journey (75%)
 
 I’m currently at 75% completion, and my main project is building the *Superstore Sales Dashboard* using Power BI.
 
@@ -85,7 +85,7 @@ Read the full breakdown of my journey here: [Building My Superstore Report: My P
 
 
 
-# 📊 Data Analysis & Visualization Progress  
+# . Data Analysis & Visualization Progress (100%) 
 
 Welcome to my *Data Analysis & Visualization Progress* repository — a complete record of my learning journey through building interactive dashboards, AI-powered visuals, and data-driven storytelling.  
 
@@ -140,7 +140,7 @@ This course enhanced my ability to:
 
 
 ## 📝 Medium Article
-Read the full breakdown of my journey here:[From Data Points to Insights](https://medium.com/@yourusername) |
+Read the full breakdown of my journey here:[From Data Points to Insights](https://medium.com/@Luchie.x/from-data-points-to-insights-my-journey-through-data-analysis-visualization-ac73aec526e6) 
 
 
 ## 🧭 Reflection  
